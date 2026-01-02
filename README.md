@@ -1,16 +1,64 @@
-## Hi there 👋, I am Suchismita
+## Hi there 👋, I am Suchismita Senapati  
 
-<!--
-**suchismita345/suchismita345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Student (2nd Semester)**  
+💻 **Aspiring Software Engineer**  
+🌱 **Background:** B.Sc. Botany (Honours)  
+🚀 **Goal:** To secure a software job with strong technical skills and real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Improving my **coding skills**  
+- Academic & mini projects related to **Data Analytics and Web Development**  
+- Preparing for **placements & internships (2025)**  
+
+---
+
+### 🌱 Currently Learning
+- **Python** for software development & data analytics  
+- **Data Analytics tools** (Excel, Power BI, Python libraries)  
+- **Git & GitHub** for version control  
+- Core CS subjects for interviews  
+
+---
+
+### 👯 Looking to Collaborate On
+- Beginner-friendly **Python projects**  
+- **Web development** projects (HTML, CSS, Bootstrap)  
+- Academic & open-source projects  
+
+---
+
+### 🤔 Looking For Help With
+- Writing **clean and efficient code**  
+- **Interview preparation** (Java / Python / SQL)  
+- Understanding **real-world software projects**  
+
+---
+
+### 💬 Ask Me About
+- C, Java, Python basics  
+- HTML, CSS, SQL  
+- MCA academics & project ideas  
+- GitHub setup for beginners  
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **suchismitasenapati342@gmail.com**  
+- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+- 🧑‍💻 GitHub: [suchismita345](https://github.com/suchismita345)  
+
+---
+
+### 😄 Pronouns
+She / Her  
+
+---
+
+### ⚡ Fun Fact
+I switched from **Botany to Software Engineering** and love learning new technologies every day 🌱➡️💻  
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
