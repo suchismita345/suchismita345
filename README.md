@@ -46,7 +46,10 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: **suchismitasenapati342@gmail.com**  
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+- 💼 LinkedIn: *(www.linkedin.com/in/
+suchismita-senapati-a97816349
+Vanity URL name
+)*  
 - 🧑‍💻 GitHub: [suchismita345](https://github.com/suchismita345)  
 
 ---
